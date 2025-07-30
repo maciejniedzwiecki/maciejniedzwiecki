@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Maciej Niedźwiecki. I am an Electronics and Telecommunications graduate from Poznan University of Technology. On my profile you can find projects related to telecommunications, web development, and research work.y. Feel free to contact with me.
+My name's Maciej Niedźwiecki. I'm an Electronics and Telecommunications graduate from Poznan University of Technology. On my profile you can find projects related to telecommunications, web development, and research work. Feel free to contact with me.
 
 &nbsp;[<img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">](https://www.linkedin.com/in/maciej-niedzwiecki/)&nbsp;&nbsp;&nbsp;[Maciej Niedźwiecki](https://www.linkedin.com/in/maciej-niedzwiecki/) \
 ✉️&nbsp;&nbsp;[maciejniedzwiecki.01@gmail.com](mailto:maciejniedzwiecki.01@gmail.com) \
