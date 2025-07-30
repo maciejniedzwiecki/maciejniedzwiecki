@@ -9,12 +9,12 @@ My name's Maciej Niedźwiecki. I'm an Electronics and Telecommunications graduat
 ## 📁 What you'll find here
 **🌐 Web Development Projects**
 - Frontend learning projects (HTML, CSS, JavaScript)
-- Personal website and portfolios
+- Personal website and portfolio
 
 **📡 Telecommunications & Research**
 - 5G/6G propagation studies and RF measurements
 - Network monitoring dashboards and IoT visualizations
-- Software-defined radio (USRP) interfaces
+- R&S measurement automation scripts
 
 **📱 Mobile & Desktop Applications**
 - iOS apps (Swift)
